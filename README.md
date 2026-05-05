@@ -28,15 +28,7 @@ Se implementa el módulo inicial de Seguridad correspondiente al Sprint 1.
 - PATCH /api/usuarios/{idUsuario}/password
 - DELETE /api/usuarios/{idUsuario}
 
-## Pruebas realizadas
 
-- Compilación del proyecto.
-- Ejecución local de la API.
-- Prueba de endpoints desde Swagger.
-- Validación de correo único.
-- Validación de rol existente.
-- Creación de usuario administrador.
-- Creación de usuario coordinador.
 
 ## Notas para el equipo
 
